@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Here you will find a personal project called Daily Grind. If the name doesn't already tell you what its about, it's a web application that assists in project management. The plan at completion of the project is for it for be a scalable robust app with many important features to help a project be successfully completed from start to finish.
 
-Things you may want to cover:
+As I complete certain features I will list them below.
 
-* Ruby version
+<!-- Things you may want to cover: -->
 
-* System dependencies
+<!-- * Admin and User functionality -->
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Follow this projects journey via my [100 Day of Code Log](https://github.com/caydn/100-days-of-code)
