@@ -52,3 +52,9 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Style gems
+gem 'bootstrap', '~> 4.0.0beta'
+gem 'font-awesome-sass', '~> 4.7.0'
+gem 'simple_form' # custom form gem that works with bootstrap
+# gem 'friendly_id', '~> 5.1.0' # Use to create unique web addrss slug
